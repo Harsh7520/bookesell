@@ -1,0 +1,100 @@
+#top {
+  height: 20px;
+  background-color: #f14d54;
+  border: none;
+  margin: -10px -8px 20px;
+}
+#logo {
+  width: 220px;
+  height: 55px;
+  margin-left: 50px;
+}
+#topimg {
+  display: flex;
+  justify-content: space-between;
+}
+#topright {
+  margin-right: 250px;
+  justify-content: center;
+  align-items: center;
+}
+#text {
+  color: #f14d54;
+  font: 14px;
+  font-family: "Roboto", sans-serif;
+}
+#greybar {
+  background-color: rgb(236, 236, 236);
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  width: 100%;
+}
+
+#submit {
+  margin-left: 20px;
+  width: 129px;
+  background: #80bf32;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.example {
+  display: flex;
+  flex-direction: row;
+}
+#cancel {
+  margin-left: 5px;
+  width: 129px;
+  background: #f14d54;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+#search2 {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid grey;
+  width: 500px;
+  background: white;
+  border-radius: 5px;
+}
+.button {
+  margin: 0 5px;
+}
+#cart {
+  cursor: pointer;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(236, 236, 236);
+  color: white;
+  text-align: center;
+  height: 200px;
+}
+#blogo {
+  width: 220px;
+  height: 55px;
+  margin-top: 50px;
+}
+#copyright{
+    color: grey;
+    font-family: 'Roboto';
+    font-size: 15px;
+}
+#login{
+  text-decoration: none;
+  color: #f14d54;
+  font: 14px;
+  font-family: "Roboto", sans-serif;
+}
