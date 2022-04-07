@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\Bookesell.Models.deps.json
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\Bookesell.Models.runtimeconfig.json
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\Bookesell.Models.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\Bookesell.Models.dll
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\ref\Bookesell.Models.dll
+C:\Users\admin\source\repos\Bookesell.Models\bin\Debug\net5.0\Bookesell.Models.pdb
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.AssemblyInfo.cs
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.dll
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\ref\Bookesell.Models.dll
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.pdb
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.genruntimeconfig.cache
+C:\Users\admin\source\repos\Bookesell.Models\obj\Debug\net5.0\Bookesell.Models.csproj.AssemblyReference.cache
